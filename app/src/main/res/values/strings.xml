@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard Issue</string>
+    <string name="long_message">Try a thing you haven’t done three times. \nOnce, to get over the fear of doing it. \nTwice, to learn how to do it. \nAnd a third time, to figure out whether you like it or not.</string>
+    <string name="forward">Forward</string>
+</resources>
